@@ -1,3 +1,4 @@
 # first_repo
 This is my first repository.
-Author-Ananua++ya Sharma
+<br>
+Author-Ananya Sharma
